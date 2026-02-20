@@ -1,0 +1,84 @@
+{
+    "wards": [
+        {
+            "id": "ward-a",
+            "name": "Ward A – Kovilambakkam",
+            "riskScore": 78,
+            "riskLevel": "high",
+            "activeCases": 42,
+            "population": 18400,
+            "coordinates": [
+                80.198,
+                12.908
+            ]
+        },
+        {
+            "id": "ward-b",
+            "name": "Ward B – Pallikaranai",
+            "riskScore": 62,
+            "riskLevel": "medium",
+            "activeCases": 27,
+            "population": 22100,
+            "coordinates": [
+                80.216,
+                12.916
+            ]
+        },
+        {
+            "id": "ward-c",
+            "name": "Ward C – Medavakkam",
+            "riskScore": 45,
+            "riskLevel": "medium",
+            "activeCases": 15,
+            "population": 31200,
+            "coordinates": [
+                80.189,
+                12.924
+            ]
+        },
+        {
+            "id": "ward-d",
+            "name": "Ward D – Sholinganallur",
+            "riskScore": 29,
+            "riskLevel": "low",
+            "activeCases": 6,
+            "population": 19800,
+            "coordinates": [
+                80.229,
+                12.900
+            ]
+        },
+        {
+            "id": "ward-e",
+            "name": "Ward E – Perungudi",
+            "riskScore": 54,
+            "riskLevel": "medium",
+            "activeCases": 19,
+            "population": 16500,
+            "coordinates": [
+                80.240,
+                12.930
+            ]
+        },
+        {
+            "id": "ward-f",
+            "name": "Ward F – Thoraipakkam",
+            "riskScore": 18,
+            "riskLevel": "low",
+            "activeCases": 3,
+            "population": 14200,
+            "coordinates": [
+                80.240,
+                12.941
+            ]
+        }
+    ],
+    "metrics": {
+        "activeCases": 112,
+        "riskIndex": 48,
+        "avgTemp": 30.2,
+        "ingestionLag": 7,
+        "wardsMonitored": 6,
+        "alertsOpen": 2
+    }
+}
